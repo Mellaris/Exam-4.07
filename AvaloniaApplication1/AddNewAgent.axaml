@@ -2,13 +2,13 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="850"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="1050"
         x:Class="AvaloniaApplication1.AddNewAgent"
 		x:CompileBindings="False"
         Title="AddNewAgent">
 	<ScrollViewer>
 		<StackPanel Background="GhostWhite">
-			<TextBlock HorizontalAlignment="Center">Добавление нового агента</TextBlock>
+			<TextBlock FontSize="20" FontWeight="800" Foreground="#B175EE" HorizontalAlignment="Center">Добавление нового агента</TextBlock>
 			<StackPanel Orientation="Horizontal">
 				<StackPanel Margin="30,30,0,0">
 					<TextBlock>Наименование</TextBlock>
@@ -37,11 +37,11 @@
 				<StackPanel Margin="200,30,0,0">
 					<Image Name="im" Source="{Binding ImageLogo}" Width="200" Height="200"></Image>
 					<Button Click="AddPhoto" Margin="0,100,0,0">
-						<TextBlock>Добавить изображение</TextBlock>
+						<TextBlock  FontWeight="800" Foreground="#B175EE">Добавить изображение</TextBlock>
 					</Button>
 				</StackPanel>
 			</StackPanel>
-			<TextBlock Margin="0,30,0,0" HorizontalAlignment="Center">История продаж</TextBlock>
+			<TextBlock FontSize="20" FontWeight="800" Foreground="#B175EE" Margin="0,30,0,0" HorizontalAlignment="Center">История продаж</TextBlock>
 			<StackPanel Orientation="Horizontal">
 				<StackPanel Margin="30,15,0,0">
 					<ListBox Name="History" Background="White" Width="350" Height="360">
@@ -78,12 +78,12 @@
 					<TextBlock>Дата</TextBlock>
 					<TextBox Name="date"></TextBox>
 					<Button Click="NewHistory" Margin="0,20,0,0" HorizontalAlignment="Center">
-						<TextBlock>Добавить реализацию</TextBlock>
+						<TextBlock  FontWeight="800" Foreground="#B175EE">Добавить реализацию</TextBlock>
 					</Button>
 				</StackPanel>
 			</StackPanel>
 			<Button Click="AddAgent" Margin="0,20,0,0" HorizontalAlignment="Center">
-				<TextBlock>Добавить агента</TextBlock>
+				<TextBlock  FontWeight="800" Foreground="#B175EE">Добавить агента</TextBlock>
 			</Button>
 		</StackPanel>
 	</ScrollViewer>

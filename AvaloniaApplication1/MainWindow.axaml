@@ -8,19 +8,19 @@
         Title="AvaloniaApplication1">
 	<ScrollViewer>
 		<StackPanel Background="GhostWhite">
-			<TextBlock Margin="0,20,0,0" HorizontalAlignment="Center">Список всех агентов</TextBlock>
+			<TextBlock FontSize="20" FontWeight="800" Foreground="#B175EE" Margin="0,20,0,0" HorizontalAlignment="Center">Список всех агентов</TextBlock>
 			<StackPanel Margin="20,20,0,0" Orientation="Horizontal">
 				<TextBox Name="poisk" Margin="0,0,0,0" HorizontalAlignment="Left" Width="200" Watermark="Поиск"></TextBox>
-				<Button Click="SortMinus">
-					<TextBlock>По убыванию</TextBlock>
+				<Button Background="#FFE9F9" Click="SortMinus">
+					<TextBlock FontWeight="800" Foreground="#B175EE">По убыванию</TextBlock>
 				</Button>
 				<ComboBox Name="sortirovka" Width="120">
 					<ComboBox.Items>Наименование</ComboBox.Items>
 					<ComboBox.Items>Скидка</ComboBox.Items>
 					<ComboBox.Items>Приоритет</ComboBox.Items>
 				</ComboBox>
-				<Button Click="SortPlus" >
-					<TextBlock>По возрастанию</TextBlock>
+				<Button Background="#FFE9F9" Click="SortPlus" >
+					<TextBlock FontWeight="800" Foreground="#B175EE">По возрастанию</TextBlock>
 				</Button>
 				<ComboBox Name="filrt" SelectedIndex="0"  Margin="30,0,0,0" Width="160">
 					<ComboBox.Items>Все типы</ComboBox.Items>
@@ -30,10 +30,10 @@
 				</ComboBox>
 			</StackPanel>
 
-			<ListBox PointerReleased="Point" SelectionMode="Multiple, Toggle" Name="AgentsAll" Width="730" Height="530" Background="White" Margin="20,20,0,0" HorizontalAlignment="Left">
+			<ListBox  PointerReleased="Point" SelectionMode="Multiple, Toggle" Name="AgentsAll" Width="730" Height="530" Background="White" Margin="20,20,0,0" HorizontalAlignment="Left">
 				<ListBox.ItemTemplate>
 					<DataTemplate>
-						<StackPanel Orientation="Horizontal">
+						<StackPanel Background="#FFE9F9" Orientation="Horizontal">
 							<Image Width="150" Height="150" Source="{Binding ImageLogo}" Name="logo"></Image>
 							<StackPanel Margin="20,0,0,0" Orientation="Vertical">
 								<StackPanel Orientation="Horizontal">
@@ -54,20 +54,20 @@
 			</ListBox>
 
 			<StackPanel Margin="295,30,0,0" Orientation="Horizontal">
-				<Button Margin="0,0,30,0" Click="Back">
-					<TextBlock>Назад</TextBlock>
+				<Button Background="#FFE9F9" Margin="0,0,30,0" Click="Back">
+					<TextBlock FontWeight="800" Foreground="#B175EE">Назад</TextBlock>
 				</Button>
-				<TextBlock Name="namberList" Width="40" Height="30">0</TextBlock>
-				<Button Click="Run">
-					<TextBlock>Вперед</TextBlock>
+				<TextBlock FontWeight="800"  Foreground="#B175EE" Name="namberList" Width="40" Height="30">0</TextBlock>
+				<Button Background="#FFE9F9" Click="Run">
+					<TextBlock FontWeight="800" Foreground="#B175EE">Вперед</TextBlock>
 				</Button>
 			</StackPanel>
 			<StackPanel Margin="30,30,0,0" Orientation="Horizontal">
-				<Button Click="Add">
-					<TextBlock>Добавить агента</TextBlock>
+				<Button Background="#FFE9F9" Click="Add">
+					<TextBlock FontWeight="800" Foreground="#B175EE">Добавить агента</TextBlock>
 				</Button>
-				<Button Name="rangEdit" IsVisible="False" Click="Change" Margin="30,0,0,0">
-					<TextBlock>Изменить приоритет</TextBlock>
+				<Button Background="#FFE9F9" Name="rangEdit" IsVisible="False" Click="Change" Margin="30,0,0,0">
+					<TextBlock FontWeight="800" Foreground="#B175EE">Изменить приоритет</TextBlock>
 				</Button>
 			</StackPanel>
 		</StackPanel>

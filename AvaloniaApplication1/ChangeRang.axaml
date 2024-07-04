@@ -8,10 +8,10 @@
         Title="ChangeRang">
 
 	<StackPanel>
-		<TextBlock Margin="0,30,0,0" HorizontalAlignment="Center">Изменение ранга</TextBlock>
+		<TextBlock FontWeight="800" Foreground="#B175EE" Margin="0,30,0,0" HorizontalAlignment="Center">Изменение ранга</TextBlock>
 		<TextBox Name="rang" Margin="0,30,0,0" Width="50"></TextBox>
 		<Button Click="EditRang" Margin="0,30,0,0" HorizontalAlignment="Center">
-			<TextBlock>Изменить ранг</TextBlock>
+			<TextBlock FontWeight="800" Foreground="#B175EE">Изменить ранг</TextBlock>
 		</Button>
 	</StackPanel>
 	
