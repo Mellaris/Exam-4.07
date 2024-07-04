@@ -1,0 +1,93 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="1020"
+        x:Class="AvaloniaApplication1.Edit"
+		x:CompileBindings="False"
+        Title="Edit">
+	<ScrollViewer>
+		<StackPanel Background="GhostWhite">
+			<TextBlock HorizontalAlignment="Center">Редактирование агента</TextBlock>
+			<StackPanel Orientation="Horizontal">
+				<StackPanel Margin="30,30,0,0">
+					<TextBlock>Наименование</TextBlock>
+					<TextBox Name="name" HorizontalAlignment="Left" Width="200"></TextBox>
+					<TextBlock>Тип агента</TextBlock>
+					<ComboBox Name="typeAgents" SelectedIndex="0" Width="200">
+						<ComboBox.Items>1 тип</ComboBox.Items>
+						<ComboBox.Items>2 тип</ComboBox.Items>
+						<ComboBox.Items>3 тип</ComboBox.Items>
+					</ComboBox>
+					<TextBlock>Приоритет</TextBlock>
+					<TextBox Name="rang" HorizontalAlignment="Left" Width="200"></TextBox>
+					<TextBlock>Адрес</TextBlock>
+					<TextBox Name="adres" HorizontalAlignment="Left" Width="200"></TextBox>
+					<TextBlock>ИНН</TextBlock>
+					<TextBox Name="inn" HorizontalAlignment="Left" Width="200"></TextBox>
+					<TextBlock>КПП</TextBlock>
+					<TextBox Name="kpp" HorizontalAlignment="Left" Width="200"></TextBox>
+					<TextBlock>Имя директора</TextBlock>
+					<TextBox Name="nameBos" HorizontalAlignment="Left" Width="200"></TextBox>
+					<TextBlock>Телефон</TextBlock>
+					<TextBox Name="phone" HorizontalAlignment="Left" Width="200"></TextBox>
+					<TextBlock>Почта</TextBlock>
+					<TextBox Name="email" HorizontalAlignment="Left" Width="200"></TextBox>
+				</StackPanel>
+				<StackPanel Margin="200,30,0,0">
+					<Image Name="im" Source="{Binding ImageLogo}" Width="200" Height="200"></Image>
+					<Button Click="NewPhoto" Margin="0,100,0,0">
+						<TextBlock>Редактировать изображение</TextBlock>
+					</Button>
+				</StackPanel>
+			</StackPanel>
+			<TextBlock Margin="0,30,0,0" HorizontalAlignment="Center">История продаж</TextBlock>
+			<StackPanel Orientation="Horizontal">
+				<StackPanel Margin="30,15,0,0">
+					<ListBox Name="History" Background="White" Width="350" Height="360">
+						<ListBox.ItemTemplate>
+							<DataTemplate>
+								<StackPanel Orientation="Horizontal">
+									<StackPanel>
+										<TextBlock>Продукт</TextBlock>
+										<TextBlock Text="{Binding NameProduct}"></TextBlock>
+										<TextBlock>Количество продаж</TextBlock>
+										<TextBlock Text="{Binding KolProduct}"></TextBlock>
+										<TextBlock>Дата</TextBlock>
+										<TextBlock Text="{Binding Date}"></TextBlock>
+									</StackPanel>
+									<StackPanel>
+										<Button Click="DeleteHistory" Tag="{Binding idDelete}">
+											<TextBlock>Удалить</TextBlock>
+										</Button>
+									</StackPanel>
+								</StackPanel>
+							</DataTemplate>
+						</ListBox.ItemTemplate>
+					</ListBox>
+				</StackPanel>
+				<StackPanel Margin="100,65,0,0">
+					<TextBlock>Продукция</TextBlock>
+					<ComboBox Name="product" SelectedIndex="0" Width="200">
+						<ComboBox.Items>Продукты</ComboBox.Items>
+						<ComboBox.Items>Одежда</ComboBox.Items>
+						<ComboBox.Items>Техника</ComboBox.Items>
+					</ComboBox>
+					<TextBlock>Количество продаж</TextBlock>
+					<TextBox Name="kol"></TextBox>
+					<TextBlock>Дата</TextBlock>
+					<TextBox Name="date"></TextBox>
+					<Button Click="NewHistory" Margin="0,20,0,0" HorizontalAlignment="Center">
+						<TextBlock>Добавить реализацию</TextBlock>
+					</Button>
+				</StackPanel>
+			</StackPanel>
+			<Button Click="Add" Margin="0,20,0,0" HorizontalAlignment="Center">
+				<TextBlock>Редактировать агента</TextBlock>
+			</Button>
+			<Button Click="DeleteThisAgent" Margin="0,20,0,0" HorizontalAlignment="Center">
+				<TextBlock>Удалить данного агента</TextBlock>
+			</Button>
+		</StackPanel>
+	</ScrollViewer>
+</Window>

@@ -17,7 +17,16 @@ build_property.ProjectDir = C:\Users\prdb\Desktop\AvaloniaApplication1\AvaloniaA
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
+[C:/Users/prdb/Desktop/AvaloniaApplication1/AvaloniaApplication1/AddNewAgent.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
 [C:/Users/prdb/Desktop/AvaloniaApplication1/AvaloniaApplication1/App.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/prdb/Desktop/AvaloniaApplication1/AvaloniaApplication1/ChangeRang.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/prdb/Desktop/AvaloniaApplication1/AvaloniaApplication1/Edit.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
 [C:/Users/prdb/Desktop/AvaloniaApplication1/AvaloniaApplication1/MainWindow.axaml]
