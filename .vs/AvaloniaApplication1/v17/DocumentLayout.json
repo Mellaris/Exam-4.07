@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\prdb\\Desktop\\AvaloniaApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97272918-1FAE-4CDB-878C-C8C109BB446B}|AvaloniaApplication1\\AvaloniaApplication1.csproj|C:\\Users\\prdb\\Desktop\\AvaloniaApplication1\\avaloniaapplication1\\addnewagent.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "AbsoluteMoniker": "D:0:0:{97272918-1FAE-4CDB-878C-C8C109BB446B}|AvaloniaApplication1\\AvaloniaApplication1.csproj|c:\\users\\prdb\\desktop\\avaloniaapplication1\\avaloniaapplication1\\addnewagent.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
       "RelativeMoniker": "D:0:0:{97272918-1FAE-4CDB-878C-C8C109BB446B}|AvaloniaApplication1\\AvaloniaApplication1.csproj|solutionrelative:avaloniaapplication1\\addnewagent.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97272918-1FAE-4CDB-878C-C8C109BB446B}|AvaloniaApplication1\\AvaloniaApplication1.csproj|C:\\Users\\prdb\\Desktop\\AvaloniaApplication1\\avaloniaapplication1\\addnewagent.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97272918-1FAE-4CDB-878C-C8C109BB446B}|AvaloniaApplication1\\AvaloniaApplication1.csproj|solutionrelative:avaloniaapplication1\\addnewagent.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{97272918-1FAE-4CDB-878C-C8C109BB446B}|AvaloniaApplication1\\AvaloniaApplication1.csproj|C:\\Users\\prdb\\Desktop\\AvaloniaApplication1\\avaloniaapplication1\\changerang.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
       "RelativeMoniker": "D:0:0:{97272918-1FAE-4CDB-878C-C8C109BB446B}|AvaloniaApplication1\\AvaloniaApplication1.csproj|solutionrelative:avaloniaapplication1\\changerang.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97272918-1FAE-4CDB-878C-C8C109BB446B}|AvaloniaApplication1\\AvaloniaApplication1.csproj|C:\\Users\\prdb\\Desktop\\AvaloniaApplication1\\avaloniaapplication1\\changerang.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97272918-1FAE-4CDB-878C-C8C109BB446B}|AvaloniaApplication1\\AvaloniaApplication1.csproj|solutionrelative:avaloniaapplication1\\changerang.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{97272918-1FAE-4CDB-878C-C8C109BB446B}|AvaloniaApplication1\\AvaloniaApplication1.csproj|C:\\Users\\prdb\\Desktop\\AvaloniaApplication1\\avaloniaapplication1\\edit.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
@@ -23,24 +23,20 @@
       "RelativeMoniker": "D:0:0:{97272918-1FAE-4CDB-878C-C8C109BB446B}|AvaloniaApplication1\\AvaloniaApplication1.csproj|solutionrelative:avaloniaapplication1\\edit.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97272918-1FAE-4CDB-878C-C8C109BB446B}|AvaloniaApplication1\\AvaloniaApplication1.csproj|C:\\Users\\prdb\\Desktop\\AvaloniaApplication1\\avaloniaapplication1\\addnewindornationagents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97272918-1FAE-4CDB-878C-C8C109BB446B}|AvaloniaApplication1\\AvaloniaApplication1.csproj|solutionrelative:avaloniaapplication1\\addnewindornationagents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97272918-1FAE-4CDB-878C-C8C109BB446B}|AvaloniaApplication1\\AvaloniaApplication1.csproj|C:\\Users\\prdb\\Desktop\\AvaloniaApplication1\\avaloniaapplication1\\addnewagent.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97272918-1FAE-4CDB-878C-C8C109BB446B}|AvaloniaApplication1\\AvaloniaApplication1.csproj|solutionrelative:avaloniaapplication1\\addnewagent.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{97272918-1FAE-4CDB-878C-C8C109BB446B}|AvaloniaApplication1\\AvaloniaApplication1.csproj|C:\\Users\\prdb\\Desktop\\AvaloniaApplication1\\avaloniaapplication1\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
       "RelativeMoniker": "D:0:0:{97272918-1FAE-4CDB-878C-C8C109BB446B}|AvaloniaApplication1\\AvaloniaApplication1.csproj|solutionrelative:avaloniaapplication1\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97272918-1FAE-4CDB-878C-C8C109BB446B}|AvaloniaApplication1\\AvaloniaApplication1.csproj|c:\\users\\prdb\\desktop\\avaloniaapplication1\\avaloniaapplication1\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97272918-1FAE-4CDB-878C-C8C109BB446B}|AvaloniaApplication1\\AvaloniaApplication1.csproj|C:\\Users\\prdb\\Desktop\\AvaloniaApplication1\\avaloniaapplication1\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97272918-1FAE-4CDB-878C-C8C109BB446B}|AvaloniaApplication1\\AvaloniaApplication1.csproj|solutionrelative:avaloniaapplication1\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97272918-1FAE-4CDB-878C-C8C109BB446B}|AvaloniaApplication1\\AvaloniaApplication1.csproj|C:\\Users\\prdb\\Desktop\\AvaloniaApplication1\\avaloniaapplication1\\changerang.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97272918-1FAE-4CDB-878C-C8C109BB446B}|AvaloniaApplication1\\AvaloniaApplication1.csproj|solutionrelative:avaloniaapplication1\\changerang.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97272918-1FAE-4CDB-878C-C8C109BB446B}|AvaloniaApplication1\\AvaloniaApplication1.csproj|C:\\Users\\prdb\\Desktop\\AvaloniaApplication1\\avaloniaapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97272918-1FAE-4CDB-878C-C8C109BB446B}|AvaloniaApplication1\\AvaloniaApplication1.csproj|solutionrelative:avaloniaapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97272918-1FAE-4CDB-878C-C8C109BB446B}|AvaloniaApplication1\\AvaloniaApplication1.csproj|C:\\Users\\prdb\\Desktop\\AvaloniaApplication1\\avaloniaapplication1\\addnewindornationagents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97272918-1FAE-4CDB-878C-C8C109BB446B}|AvaloniaApplication1\\AvaloniaApplication1.csproj|solutionrelative:avaloniaapplication1\\addnewindornationagents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{97272918-1FAE-4CDB-878C-C8C109BB446B}|AvaloniaApplication1\\AvaloniaApplication1.csproj|C:\\Users\\prdb\\Desktop\\AvaloniaApplication1\\avaloniaapplication1\\alllists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,6 +45,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{97272918-1FAE-4CDB-878C-C8C109BB446B}|AvaloniaApplication1\\AvaloniaApplication1.csproj|C:\\Users\\prdb\\Desktop\\AvaloniaApplication1\\avaloniaapplication1\\historyagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97272918-1FAE-4CDB-878C-C8C109BB446B}|AvaloniaApplication1\\AvaloniaApplication1.csproj|solutionrelative:avaloniaapplication1\\historyagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97272918-1FAE-4CDB-878C-C8C109BB446B}|AvaloniaApplication1\\AvaloniaApplication1.csproj|C:\\Users\\prdb\\Desktop\\AvaloniaApplication1\\avaloniaapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97272918-1FAE-4CDB-878C-C8C109BB446B}|AvaloniaApplication1\\AvaloniaApplication1.csproj|solutionrelative:avaloniaapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,19 +62,18 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ChangeRang.axaml",
               "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\AvaloniaApplication1\\AvaloniaApplication1\\ChangeRang.axaml",
               "RelativeDocumentMoniker": "AvaloniaApplication1\\ChangeRang.axaml",
               "ToolTip": "C:\\Users\\prdb\\Desktop\\AvaloniaApplication1\\AvaloniaApplication1\\ChangeRang.axaml",
               "RelativeToolTip": "AvaloniaApplication1\\ChangeRang.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-04T09:42:49.482Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T09:42:49.482Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "ChangeRang.axaml.cs",
               "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\AvaloniaApplication1\\AvaloniaApplication1\\ChangeRang.axaml.cs",
               "RelativeDocumentMoniker": "AvaloniaApplication1\\ChangeRang.axaml.cs",
@@ -93,8 +92,7 @@
               "ToolTip": "C:\\Users\\prdb\\Desktop\\AvaloniaApplication1\\AvaloniaApplication1\\Edit.axaml",
               "RelativeToolTip": "AvaloniaApplication1\\Edit.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-04T09:40:44.52Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T09:40:44.52Z"
             },
             {
               "$type": "Document",
@@ -106,12 +104,11 @@
               "RelativeToolTip": "AvaloniaApplication1\\Edit.axaml.cs",
               "ViewState": "AQIAACQAAAAAAAAAAAAowFwAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T09:40:41.359Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T09:40:41.359Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "AddNewAgent.axaml.cs",
               "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\AvaloniaApplication1\\AvaloniaApplication1\\AddNewAgent.axaml.cs",
               "RelativeDocumentMoniker": "AvaloniaApplication1\\AddNewAgent.axaml.cs",
@@ -119,8 +116,7 @@
               "RelativeToolTip": "AvaloniaApplication1\\AddNewAgent.axaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T09:26:14.309Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T09:26:14.309Z"
             },
             {
               "$type": "Document",
@@ -131,8 +127,7 @@
               "ToolTip": "C:\\Users\\prdb\\Desktop\\AvaloniaApplication1\\AvaloniaApplication1\\MainWindow.axaml",
               "RelativeToolTip": "AvaloniaApplication1\\MainWindow.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-04T07:51:33.657Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T07:51:33.657Z"
             },
             {
               "$type": "Document",
@@ -144,12 +139,11 @@
               "RelativeToolTip": "AvaloniaApplication1\\MainWindow.axaml.cs",
               "ViewState": "AQIAACgAAAAAAAAAAAAIwDoAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T07:51:31.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T07:51:31.081Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "AddNewIndornationAgents.cs",
               "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\AvaloniaApplication1\\AvaloniaApplication1\\AddNewIndornationAgents.cs",
               "RelativeDocumentMoniker": "AvaloniaApplication1\\AddNewIndornationAgents.cs",
@@ -157,12 +151,11 @@
               "RelativeToolTip": "AvaloniaApplication1\\AddNewIndornationAgents.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T09:55:04.054Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T09:55:04.054Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "AllLists.cs",
               "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\AvaloniaApplication1\\AvaloniaApplication1\\AllLists.cs",
               "RelativeDocumentMoniker": "AvaloniaApplication1\\AllLists.cs",
@@ -186,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "HistoryAgent.cs",
               "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\AvaloniaApplication1\\AvaloniaApplication1\\HistoryAgent.cs",
               "RelativeDocumentMoniker": "AvaloniaApplication1\\HistoryAgent.cs",
@@ -198,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\AvaloniaApplication1\\AvaloniaApplication1\\Program.cs",
               "RelativeDocumentMoniker": "AvaloniaApplication1\\Program.cs",
